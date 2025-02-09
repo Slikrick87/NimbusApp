@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\pages\\viewmanifest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\pages\\viewmanifest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\pages\\addstop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\pages\\addstop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\logic\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\logic\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\services\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\services\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\services\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\services\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF0AC28-E510-440E-9240-60541BB78DA2}|Nimbus\\Nimbus\\Nimbus.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF0AC28-E510-440E-9240-60541BB78DA2}|Nimbus\\Nimbus\\Nimbus.csproj|solutionrelative:nimbus\\nimbus\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E367F0B-872E-458B-95F2-C267923EEFEF}|Nimbus\\Nimbus.Web\\Nimbus.Web.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.web\\services\\formfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E367F0B-872E-458B-95F2-C267923EEFEF}|Nimbus\\Nimbus.Web\\Nimbus.Web.csproj|solutionrelative:nimbus\\nimbus.web\\services\\formfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\services\\iformfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\services\\iformfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF0AC28-E510-440E-9240-60541BB78DA2}|Nimbus\\Nimbus\\Nimbus.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus\\services\\formfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF0AC28-E510-440E-9240-60541BB78DA2}|Nimbus\\Nimbus\\Nimbus.csproj|solutionrelative:nimbus\\nimbus\\services\\formfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1524F455-D310-400C-8544-14B65FFDB38B}|Nimbus\\Nimbus.Shared\\Nimbus.Shared.csproj|solutionrelative:nimbus\\nimbus.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E367F0B-872E-458B-95F2-C267923EEFEF}|Nimbus\\Nimbus.Web\\Nimbus.Web.csproj|c:\\codeyou\\softwaredevmodule\\nimbusapp\\nimbus2\\nimbus\\nimbus\\nimbus.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E367F0B-872E-458B-95F2-C267923EEFEF}|Nimbus\\Nimbus.Web\\Nimbus.Web.csproj|solutionrelative:nimbus\\nimbus.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 723,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Logic\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Logic\\AddressRepository.cs",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Logic\\AddressRepository.cs",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Logic\\AddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:06:47.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:45:06.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:45:02.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Routes.razor",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Routes.razor",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Routes.razor",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:44:45.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewManifest.razor",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Pages\\ViewManifest.razor",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Pages\\ViewManifest.razor",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Pages\\ViewManifest.razor",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Pages\\ViewManifest.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T18:25:15.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormFactor.cs",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Web\\Services\\FormFactor.cs",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Web\\Services\\FormFactor.cs",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Web\\Services\\FormFactor.cs",
+              "RelativeToolTip": "Nimbus\\Nimbus.Web\\Services\\FormFactor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:16:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Pages\\Counter.razor",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Pages\\Counter.razor",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T16:17:27.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFormFactor.cs",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Services\\IFormFactor.cs",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Services\\IFormFactor.cs",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Services\\IFormFactor.cs",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Services\\IFormFactor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:53:02.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressEntity.cs",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Services\\AddressEntity.cs",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Services\\AddressEntity.cs",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Services\\AddressEntity.cs",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Services\\AddressEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:50:35.121Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 559,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormFactor.cs",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus\\Services\\FormFactor.cs",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus\\Services\\FormFactor.cs",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus\\Services\\FormFactor.cs",
+              "RelativeToolTip": "Nimbus\\Nimbus\\Services\\FormFactor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:42:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStop.razor",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Pages\\AddStop.razor",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Pages\\AddStop.razor",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Pages\\AddStop.razor",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Pages\\AddStop.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T16:17:51.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus\\MauiProgram.cs",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus\\MauiProgram.cs",
+              "RelativeToolTip": "Nimbus\\Nimbus\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:13:48.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Web\\Program.cs",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Web\\Program.cs",
+              "RelativeToolTip": "Nimbus\\Nimbus.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:12:31.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Services\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Services\\IAddressRepository.cs",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Services\\IAddressRepository.cs",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Services\\IAddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:53:13.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Nimbus\\Nimbus.Shared\\Pages\\Home.razor",
+              "ToolTip": "C:\\CodeYou\\SoftwareDevModule\\NimbusApp\\Nimbus2\\Nimbus\\Nimbus\\Nimbus.Shared\\Pages\\Home.razor",
+              "RelativeToolTip": "Nimbus\\Nimbus.Shared\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T16:46:10.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
